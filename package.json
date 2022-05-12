@@ -1,0 +1,28 @@
+{
+	"name": "ethers",
+	"version": "1.0.0",
+	"description": "Practice Problems using ethers.js",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/danielbrock4/ethersTransactions.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/danielbrock4/ethersTransactions/issues"
+	},
+	"homepage": "https://github.com/danielbrock4/ethersTransactions#readme",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"dotenv": "^16.0.1",
+		"ethers": "^5.6.5"
+	},
+	"devDependencies": {
+		"hardhat": "^2.9.5"
+	}
+}
